@@ -3,7 +3,7 @@
 This repository is for learning frontend development while practicing Git and GitHub.
 
 ## Goals
-- Learn HTML, CSS, and JavaScript basics.
+- Learn HTML, CSS, and JavaScript .
 - Practice version control with Git:
   - Create commits with meaningful messages
   - Work with branches
